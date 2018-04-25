@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+a:link {
+	
+	color:red;
+}
+
+a:visited {
+
+	color:white;
+	
+}
+
+img {
+    
+    max-width: 500px;
+    min-width: 300px;
+}
+
+h4 {
+    
+    color: #880000;
+}
+
+.toplogo {
+    
+    background-color:#808080;
+}
+
+
+@media (min-width: 768px) {
+    
+    img {
+        
+        width:100%;
+        float: none;
+        
+    }    
+    
+}
